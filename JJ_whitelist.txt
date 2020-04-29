@@ -218,3 +218,4 @@ data.mistat.xiaomi.com
 app.chat.global.xiaomi.net
 v20.events.data.microsoft.com
 ocsp.apple.com
+adguard.com
