@@ -42,7 +42,6 @@
 ||3lift.com^
 ||dotomi.com^
 ||rubiconproject.com^
-||googlesyndication.com^
 ||gstatic.com^
 ||appier.net^
 ||zdbb.net^
@@ -94,8 +93,6 @@
 ||typekit.net^
 ||fiftyt.com^
 ||facebook.com^
-||google-analytics.com^
-||googletagmanager.com^
 ||bidswitch.net^
 ||associates-amazon.com^
 ||1-cl0ud.com^
