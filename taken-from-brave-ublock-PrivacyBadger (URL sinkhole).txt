@@ -36,7 +36,6 @@
 0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 cds.connatix.com
 0.0.0.0 cks.connatix.com
-0.0.0.0 clients1.google.com
 0.0.0.0 cm.ctnsnet.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cms.analytics.yahoo.com
