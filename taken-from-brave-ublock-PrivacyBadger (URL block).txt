@@ -8,7 +8,6 @@
 ||pubmatic.com^
 ||stickyadstv.com^
 ||yieldmo.com^
-||google.com^
 ||lijit.com^
 ||spot.im^
 ||zemanta.com^
