@@ -11,7 +11,6 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.yieldmo.com
-0.0.0.0 adservice.google.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 b1sync.zemanta.com
@@ -45,7 +44,6 @@
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.emxdgt.com
 0.0.0.0 cs.media.net
-0.0.0.0 cse.google.com
 0.0.0.0 csync.loopme.me
 0.0.0.0 ct.pinterest.com
 0.0.0.0 direct-events-collector.spot.im
